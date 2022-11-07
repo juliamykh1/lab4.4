@@ -1,0 +1,13 @@
+﻿'lab4.4.exe' (Win32): Loaded 'C:\Users\Користувач\source\repos\lab4.4\Debug\lab4.4.exe'. Symbols loaded.
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x22ba4 has exited with code 0 (0x0).
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'lab4.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x1f550 has exited with code 0 (0x0).
+The thread 0x20fc0 has exited with code 0 (0x0).
+The program '[72180] lab4.4.exe' has exited with code 0 (0x0).
